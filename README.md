@@ -1,3 +1,3 @@
-# plugin-laravel-data
+# Bellows Laravel Data Plugin
 
-[https://bellows.dev](https://bellows.dev)
+[https://bellows.dev/docs/plugins/laravel-data](https://bellows.dev/docs/plugins/laravel-data)

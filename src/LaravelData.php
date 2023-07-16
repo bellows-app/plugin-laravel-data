@@ -3,15 +3,11 @@
 namespace Bellows\Plugins;
 
 use Bellows\PluginSdk\Contracts\Installable;
-use Bellows\PluginSdk\Facades\Artisan;
 use Bellows\PluginSdk\Facades\Console;
-use Bellows\PluginSdk\Facades\Deployment;
-use Bellows\PluginSdk\Facades\DeployScript;
 use Bellows\PluginSdk\Facades\Project;
 use Bellows\PluginSdk\Facades\Vite;
 use Bellows\PluginSdk\Plugin;
 use Bellows\PluginSdk\PluginResults\CanBeInstalled;
-use Bellows\PluginSdk\PluginResults\DeploymentResult;
 use Bellows\PluginSdk\PluginResults\InstallationResult;
 
 class LaravelData extends Plugin implements Installable
